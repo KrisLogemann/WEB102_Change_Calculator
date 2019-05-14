@@ -1,0 +1,46 @@
+.everything {
+  background-image: url("https://image.shutterstock.com/image-photo/huge-pile-us-coins-450w-198609767.jpg");
+  background-size: cover;
+}
+.amounts {
+  display: flex;
+  color: white;
+}
+
+h2 {
+  padding: 20px;
+  color: white;
+}
+
+.boxed {
+  border: 2px solid black;
+  padding: 20px 20px;
+  width: 48%;
+  display: flex;
+  color: white;
+}
+
+label {
+  font-size: 30px;
+}
+
+input[type="text"] {
+  width: 20%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  font-size: 30px;
+}
+
+#calculate-change {
+  font-size: 30px;
+  text-align: center;
+  padding: 10px 10px;
+}
+
+.changecalc {
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-family: Times-New-Roman;
+}
